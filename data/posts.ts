@@ -1,5 +1,4 @@
 import {IPost} from "@/types/post.interface";
-import {IPostComment} from "@/types/post-comment.interface";
 
 const posts: IPost[] = [
     {
