@@ -703,4 +703,5 @@ const posts: IPost[] = [
     }
 ];
 
+export default posts;
 
