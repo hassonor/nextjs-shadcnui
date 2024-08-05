@@ -12,7 +12,7 @@ export default function Home() {
                 <DashboardCard title='Comment' count={1100}
                                icon={<MessageCircle className='text-slate-500' size={72}/>}/>
             </div>
-            <PostsTable title="Latest Post"/>
+            <PostsTable title="Latest Post" limit={5}/>
         </>
     )
 }
