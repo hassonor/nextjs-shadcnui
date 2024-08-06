@@ -6,7 +6,7 @@ import {
 } from 'recharts';
 import {Card, CardContent, CardDescription, CardHeader, CardTitle} from '@/components/ui/card';
 import data from '@/data/analytics';
-//
+
 const AnalyticsCharts = () => {
     return <>
         <Card>
